@@ -1,2 +1,6 @@
 # Primeros pasos en JavaScript y HTML 
- Múltiples proyectos,  Entender HTML, CSS y JavaScript,  Creación de funciones, eventos, y objetos
+ 
+ Este es un Curso de Programación Básica, que he realizado en Platzi la cual realizamos Múltiples proyectos.
+ Entendí como funciona y es la estructura de HTML, CSS y JavaScript y la  creación de Funciones, Eventos, y Objetos.
+ 
+ 
